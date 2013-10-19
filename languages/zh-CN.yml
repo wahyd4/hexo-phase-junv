@@ -1,0 +1,13 @@
+categories: 类别
+search: 搜索
+tags: 标签
+tagcloud: 标签云
+tweets: 推文
+prev: 上一页
+next: 上一页
+comment: 留言
+archive_a: 归档
+archive_b: 归档：%s
+category: 类别：%s
+tag: 标签：%s
+page: 第 %d 页
