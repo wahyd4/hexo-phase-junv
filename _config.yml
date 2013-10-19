@@ -1,6 +1,9 @@
 menu:
-  Home: /
-  Archives: /archives
+  首页: /
+  存档: /archives
+  关于: /about
+  推荐: /recommend
+  My Career: /my-career
 
 addthis:
   enable: true
@@ -10,11 +13,15 @@ addthis:
   google: true
   pinterest: true
 
-facebook:
+facebook: junvzhao
 google_plus:
-twitter:
-github:
+twitter: 
+github: wahyd4
 
 fancybox: true
-google_analytics:
+google_analytics: UA-5243064-16
 rss:
+
+#Google adsense
+adsense_enable: true
+adsense_id: pub-2599506592075808
