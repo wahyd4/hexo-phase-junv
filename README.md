@@ -1,16 +1,17 @@
 # Phase-Junv  
 
-这是一款 Hexo 博客系统的主题，基于Phase做了一些修改。
-后期我还会陆陆续续加入更多的改进。
+A Hexo blog theme which based on Phase. So I call it Phase-Junv.
+I just do somthing changes on the original theme, and it not finished yet...
 
-* 移除动态背景，修改为精美木纹背景  
-* 添加Google Adsense 广告支持 （在主题的 _config.yml 进行配置即可）
+## Features
 
+* Remove the Dymnical background, now the background is a beautiful wood grain image.  
+* Add support for Google Adsense, you need to enbale it and replace to your google adsense UUID in the theme _config.yml file.  
+* ...
 
+## License
 
-
-
-
+MIT LICENSE
 
 <hr>
 
