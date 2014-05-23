@@ -8,14 +8,12 @@ menu:
 addthis:
   enable: true
   pubid:
-  facebook: true
-  twitter: true
+  facebook: false
+  twitter: false
   google: true
   pinterest: true
 
-facebook: junvzhao
-google_plus:
-twitter: 
+
 github: wahyd4
 
 fancybox: true
