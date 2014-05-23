@@ -3,6 +3,10 @@
 A Hexo blog theme which based on Phase. So I call it Phase-Junv.
 I just do some changes based on the original theme, and it not finished yet...
 
+## Demo
+
+<http://toozhao.com/>
+
 ## Features
 
 * Remove the Dymnical background, now the background is a beautiful wood grain image.  
